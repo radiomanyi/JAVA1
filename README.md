@@ -7,6 +7,5 @@ public class Helloworld {
 		// TODO Auto-generated method stub
 System.out.println("hello world");
 	}
-
 }
 question：how to distinguish the println（s）
