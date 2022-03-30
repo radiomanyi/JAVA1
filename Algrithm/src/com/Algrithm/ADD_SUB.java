@@ -9,7 +9,8 @@ public class ADD_SUB {
 		int c = a+b;
 		System.out.print("1+2=");
 		System.out.println(c);
-		System.out.println("This is Assignment 2");
+		System.out.println("Test Upload.");
+		
 	}
 
 }
