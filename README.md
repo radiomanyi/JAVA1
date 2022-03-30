@@ -1,11 +1,3 @@
 # Ye's reassessment notice
-package helloworld;
-
-public class Helloworld {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-System.out.println("hello world");
-	}
-}
-question：how to distinguish the println(string)
+规则1. 上传的作业文件夹需要有编号如01_HelloWorld，02_ADD_SUB
+规则2. 
