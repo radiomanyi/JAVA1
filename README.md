@@ -1,4 +1,4 @@
-# JAVA1
+# Ye's reassessment notice
 package helloworld;
 
 public class Helloworld {
