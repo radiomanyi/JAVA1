@@ -9,10 +9,8 @@ public class ADD_SUB {
 		int c = a+b;
 		System.out.print("1+2=");
 		System.out.println(c);
-		int d= 10;
-		int e= d - c;
-		System.out.println(e);
 		System.out.println("Test Upload.");
+		
 	}
 
 }
