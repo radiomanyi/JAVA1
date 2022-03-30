@@ -8,4 +8,4 @@ public class Helloworld {
 System.out.println("hello world");
 	}
 }
-question：how to distinguish the println（s）
+question：how to distinguish the println(string)
